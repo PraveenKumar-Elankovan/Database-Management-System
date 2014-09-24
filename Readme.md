@@ -23,7 +23,7 @@ After setting up the tables, the program has to read an input file called transf
 
 
 We assume the input file is always valid, and you do not need to check if it is correct. We also assume that each course name is a string of maximum 20 characters without any spaces.
--------------------------------------------------------------------------------------------------------------------------------
+
 A sample input file is as follows:
 
 ***trans file****
@@ -46,4 +46,3 @@ Software, Database, AI
 No prerequisite
 55
 Algorithm
--------------------------------------------------------------------------------------------------------------------------------
