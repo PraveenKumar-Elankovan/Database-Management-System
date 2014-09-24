@@ -1,0 +1,7 @@
+2 50 Software 55
+2 100 Database 40 50
+2 101 Algorithm 53 100 50
+1 100
+4 50
+5 50
+6
