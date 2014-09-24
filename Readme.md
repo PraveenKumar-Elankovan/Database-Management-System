@@ -1,5 +1,5 @@
 This program interfaces with a database using embedded SQL. The program operates on the following database with two relations:
-                                              ------------
+                                             
 Course (cid: integer, name:string, capacity: integer)
 PrerequisiteCourse (cid: integer, pid:integer)
 
