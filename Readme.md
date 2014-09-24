@@ -37,7 +37,7 @@ A sample input file is as follows:
 6
 2
 
-****Your output should be:
+***Output****
 done
 done
 done
